@@ -1,7 +1,8 @@
 NODDY -- WINDOWS RUNTIME BUNDLE
 ================================
 
-Just double-click noddy.exe -- everything it needs is in this folder
+Just download the entire respository as a zip file, unzip it and 
+double-click noddy.exe -- everything it needs is in this folder
 (Qt5 DLLs + platforms\qwindows.dll), no separate Qt or MSYS2 install
 required on the target machine. Verified to launch standalone with a
 clean PATH.
