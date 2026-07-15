@@ -1,4 +1,4 @@
-###NODDY -- WINDOWS RUNTIME BUNDLE
+NODDY -- WINDOWS RUNTIME BUNDLE
 ================================
 
 Just download the entire respository as a zip file, unzip it and 
@@ -23,7 +23,7 @@ see that project's user.txt for the full verified dependency list and
 how to regenerate it (windeployqt or `ldd noddy.exe`) if Qt/MinGW
 versions change.
 
-##New Features
+New Features
 This port has allowed several new features to be added to the code:
 - Clicked orientations on maps and sections now include x,y,z coordinates when saved to file
 - Uniform bedding orientations and lithology can be saved as cvs for whole top surface of map (Save Surface Orientations... menu item)
