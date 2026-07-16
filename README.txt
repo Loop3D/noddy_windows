@@ -34,3 +34,5 @@ This port has allowed several new features to be added to the code:
 - Voxels above topo surface in block diagrams can now be rendered transparent (In Display Type Dialog).
 - Gaussian noise can now be added to density and magnetic susceptibility at voxel level (In Geophysics Calculation Options)
 
+Qt distribution
+Qt is used to build the GUI for this code. Distribution of Qt libraries for Open Source codes is allowed as long as the source code for the Qt libraries is made available (here https://download.qt.io/). The Qt code is ditributed under a LGPLv3 license lgpl-3.0.
