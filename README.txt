@@ -7,6 +7,9 @@ double-click noddy.exe -- everything it needs is in this folder
 required on the target machine. Verified to launch standalone with a
 clean PATH.
 
+For full source code of this version see https://github.com/Loop3D/noddy_qt 
+and for legacy codes see https://tectonique.net/noddy
+
 Batch/CLI mode also works from here, e.g. from a Command Prompt/
 PowerShell in this folder:
 
