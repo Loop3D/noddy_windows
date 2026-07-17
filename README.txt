@@ -13,18 +13,9 @@ and for legacy codes see https://tectonique.net/noddy
 Batch/CLI mode also works from here, e.g. from a Command Prompt/
 PowerShell in this folder:
 
-  noddy.exe somefile.his -block
+  noddy.exe fold_tilt_fault.his -block
 
-See -help for the full list of batch options.
-
-This bundle was copied from a build of:
-  noddy-code-r2-orig_src\noddy  (Qt5/MinGW64 build via its Makefile)
-
-To refresh this bundle after rebuilding noddy.exe, re-copy noddy.exe
-plus the *.dll files and platforms\qwindows.dll from that build tree --
-see that project's user.txt for the full verified dependency list and
-how to regenerate it (windeployqt or `ldd noddy.exe`) if Qt/MinGW
-versions change.
+Try noddy.exe -help for the full list of batch options.
 
 New Features
 This port has allowed several new features to be added to the code:
