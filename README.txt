@@ -27,3 +27,6 @@ This port has allowed several new features to be added to the code:
 
 Qt distribution
 Qt is used to build the GUI for this code. Distribution of Qt libraries for Open Source codes is allowed as long as the source code for the Qt libraries is made available (here https://download.qt.io/). The Qt code is ditributed under a LGPLv3 license lgpl-3.0.
+
+Source Code
+Full source code available here: https://github.com/Loop3D/noddy_qt/
